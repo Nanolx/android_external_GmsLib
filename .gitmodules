@@ -1,4 +1,3 @@
 [submodule "GmsApi"]
 	path = extern/GmsApi
-	url = https://github.com/chris42/android_external_GmsApi
-	branch = buildfix-1806
+	url = https://github.com/Nanolx/android_external_GmsApi
